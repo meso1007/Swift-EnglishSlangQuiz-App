@@ -2,10 +2,15 @@
 #### 今後トライアル版を実装予定
 
 ## **サービスへの想い** 
-#### 外国人の方と英語でコミュニケーションをとっている際にネイティブの方が英語のスラングを多用して理解できない時が多々ありました。そのため学習をしようとしても学校じゃ学べないため、スラングを学べるクイズ形式の学習アプリを開発いたしました。
+#### 外国人の方と英語でコミュニケーションをとっている際にネイティブの方が英語のスラングを多用して理解できない時が多々ありました。そのため学習をしようとしても学校じゃ学べないため、スラングを学べるクイズ形式の学習アプリ「Englishlang」を開発いたしました。
 
 ## **イメージ画像** 
-#### ![イメージ画像]
+#### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 54 15](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/736ed98e-7832-456b-9f9e-944fe733de59)
+#### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 53 46](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/52d5c7f7-e68d-47d2-8970-f075295c438e)
+#### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 53 08](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/f9113e24-53be-470a-865e-eae9019ac373)
+#### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 54 12](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/e3d6b6f2-d059-463f-a191-6f36c097a64f)
+
+
 ## **使用方法**
 #### 1. アプリを起動する
 #### 2. レベルを選択
