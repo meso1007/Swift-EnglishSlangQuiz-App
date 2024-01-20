@@ -5,6 +5,7 @@
 #### 外国人の方と英語でコミュニケーションをとっている際にネイティブの方が英語のスラングを多用して理解できない時が多々ありました。そのため学習をしようとしても学校じゃ学べないため、スラングを学べるクイズ形式の学習アプリ「Englishlang」を開発いたしました。
 
 ## **イメージ画像** 
+#### <img src="***(https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/736ed98e-7832-456b-9f9e-944fe733de59)***" width="20%">
 #### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 54 15](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/736ed98e-7832-456b-9f9e-944fe733de59)
 #### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 53 46](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/52d5c7f7-e68d-47d2-8970-f075295c438e)
 #### ![Simulator Screenshot - iPhone 15 - 2024-01-19 at 23 53 08](https://github.com/meso1007/EnglishSlangQuizApp/assets/94849818/f9113e24-53be-470a-865e-eae9019ac373)
